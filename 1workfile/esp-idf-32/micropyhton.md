@@ -4,7 +4,7 @@
 # 1、micropython
 
 Require
-- esp-idf [[esp-idf 环境搭建]]
+- esp-idf [[ESP-IDF+ WSL环境搭建]]
 - esp-idf v4.4
 - micropython source code
 
