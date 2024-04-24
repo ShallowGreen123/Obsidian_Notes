@@ -1,4 +1,3 @@
-
 ## 1. ESP-IDF+ WSL Install
 refer to：
 [gitee](https://gitee.com/EspressifSystems/esp-gitee-tools/blob/master/docs/README-submodule-update.md)
