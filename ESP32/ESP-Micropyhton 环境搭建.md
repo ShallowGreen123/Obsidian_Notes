@@ -1,10 +1,10 @@
 [micropython](https://github.com/micropython/micropython)
 [lv_micropython](https://github.com/lvgl/lv_micropython)
 
-# 1、micropython
+# 1、micropython 环境搭建
 
 Require
-- esp-idf [[ESP-IDF+ WSL环境搭建]]
+- esp-idf [[ESP-IDF+ WSL 环境搭建]]
 - esp-idf v4.4
 - micropython source code
 
@@ -73,9 +73,5 @@ $ make deploy
 
 打开软件 Thonny
 连接板子
-~~~
-
-~~~
-
 ~~~
 

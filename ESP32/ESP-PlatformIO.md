@@ -14,7 +14,6 @@ framework = arduino             ; 5️⃣
 
 ...
 ~~~
-
 ### 1️⃣ boards_dir
 
 `boards_dir` 指明与开发板相关信息的路径，这个路径下的文件通常是以 `.json` 为后缀的文件；PIO 默认有一些板子的配置信息，默认情况下 `boards_dir` 指向路径`C:\Users\yourname\.platformio\platforms\espressif32@6.3.0\boards` ，在这里可以看到很多的 `.json` 文件，这些都是 PIO 预设的一些板子配置信息；其中`espressif32@6.3.0` 这个在 `3️⃣` 中的 `platform` 指明；
@@ -51,4 +50,11 @@ platform.py
 
 选择工程应用的框架，通常可以选择 arduino 和 espidf 框架；
 
-## 📗2、
+## 📗2、查看 Arduion/IDF 版本
+
+在路径 `C:\Users\yourname\.platformio\packages` 下找到下载的 `framework-arduinoespressif32` 包，然后用 VScode 打开，并搜索宏定义：
+
+- 👉 ESP_ARDUINO_VERSION ：PIO 使用的 Arduion 版本
+- 👉 ESP_IDF_VERSION            ：PIO 使用的 Espidf 版本
+
+
