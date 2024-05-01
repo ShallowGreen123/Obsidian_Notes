@@ -17,5 +17,12 @@ WSL : Windows Subsystem for Linux.
 https://blog.csdn.net/z318913/article/details/127630613
 https://blog.csdn.net/weixin_56464045/article/details/128213558
 
+
+WSL 切换到 root 用户，使用 `su` 命令，密码为 `123456`
+~~~
+$su
+$123456
+~~~
+
 WSL root passwor：000000
 

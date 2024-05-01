@@ -1,4 +1,4 @@
-## 1. ESP-IDF+ WSL Install
+## 📗 1. ESP-IDF+ WSL Install
 refer to：
 [gitee](https://gitee.com/EspressifSystems/esp-gitee-tools/blob/master/docs/README-submodule-update.md)
 [espressif](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/linux-macos-setup.html)
@@ -19,7 +19,8 @@ Default installation location is `~/esp`
 mkdir -p ~/esp
 cd ~/esp
 git clone https://gitee.com/EspressifSystems/esp-gitee-tools.git
-git clone https://gitee.com/EspressifSystems/esp-idf.git
+git clone -b v4.4 https://gitee.com/EspressifSystems/esp-idf.git
+git checkout v4.4
 ~~~
 
 4、Updata submodules
@@ -70,7 +71,7 @@ The behavior of `idf.py set-target` command is equivalent to:
 
 git describe --tags --dirty // 查看esp-idf版本
 
-## 2. ESP-IDF Different Version
+## 2. 📗 ESP-IDF Different Version
 
 在 esp-idf 的开发过程中可能会遇到需要使用不同版本的 idf 的问题，如何对 idf 的多版本进行管理；
 
