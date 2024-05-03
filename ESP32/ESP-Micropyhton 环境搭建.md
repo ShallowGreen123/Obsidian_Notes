@@ -1,5 +1,5 @@
-[micropython](https://github.com/micropython/micropython)
-[lv_micropython](https://github.com/lvgl/lv_micropython)
+- [micropython](https://github.com/micropython/micropython)
+- [lv_micropython](https://github.com/lvgl/lv_micropython)
 
 # 1、micropython 环境搭建
 
