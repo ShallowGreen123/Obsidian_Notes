@@ -54,4 +54,4 @@ opt：是将 .py 编译为 .mpy 是传递给 mpy-cross 的优化级别
 
 # 其他
 flash_download_tool 工具固件下载
-![](img/Pasted%20image%2020240219214833.png)
+![](Pasted%20image%2020240219214833.png)
