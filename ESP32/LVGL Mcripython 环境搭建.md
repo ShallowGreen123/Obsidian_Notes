@@ -70,7 +70,7 @@ export LIBGL_ALWAYS_INDIRECT=1
 
 # 3. 测试工程
 
-测试工程地址 [Gitee](https://github.com/lvgl/lv_micropython/tree/release/v8?tab=readme-ov-file)
+测试工程地址 [Gitee](https://gitee.com/duan-guangxin/lvgl_mpy)
 
 在完成上面的步骤后，可以使用测试 lvgl + micropython 的模拟器的环境是否可以使用；
 
