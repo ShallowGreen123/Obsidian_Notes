@@ -1,5 +1,19 @@
 {
-  "local-codelang": "cmd",
+  "local-codelang": "c",
+  "local-exportpdf": {
+    "keepFold": false,
+    "landscape": false,
+    "marginBottom": 1,
+    "marginLeft": 0.54,
+    "marginRight": 0.54,
+    "marginTop": 1,
+    "marginType": "default",
+    "mergeSubdocs": false,
+    "pageSize": "A4",
+    "removeAssets": true,
+    "scale": 1,
+    "watermark": false
+  },
   "local-fileposition": {
     "20200812220555-lj3enxa": {
       "endId": "20240508001403-j8ceveg",
@@ -11,22 +25,62 @@
       "startId": "20210528115012-vst5lwt"
     },
     "20240524163501-iv80qf6": {
-      "endId": "20240524214803-5tpzz4i",
-      "focusEnd": 0,
-      "focusId": "20240524203401-78dr910",
-      "focusStart": 0,
+      "endId": "20240525170640-sask72z",
+      "focusEnd": 3,
+      "focusId": "20240524212514-eggavwz",
+      "focusStart": 3,
       "rootId": "20240524163501-iv80qf6",
-      "scrollTop": 0,
+      "scrollTop": 3464,
       "startId": "20240524203401-78dr910"
     },
     "20240524203411-9njzsum": {
-      "endId": "20240524211023-7hxqlrd",
-      "focusEnd": 3,
-      "focusId": "20240524210906-9t9m69y",
-      "focusStart": 3,
+      "endId": "20240525170338-ouqns52",
+      "focusEnd": 55,
+      "focusId": "20240525170357-nzegc65",
+      "focusStart": 55,
       "rootId": "20240524203411-9njzsum",
-      "scrollTop": 4400,
+      "scrollTop": 0,
       "startId": "20240524204954-hddjbb3"
+    },
+    "20240525172435-fvelfxi": {
+      "endId": "20240527172427-8gt9i9k",
+      "focusEnd": 0,
+      "focusId": "20240527172435-wnme0w5",
+      "focusStart": 0,
+      "rootId": "20240525172435-fvelfxi",
+      "scrollTop": 11176,
+      "startId": "20240525172457-lc4c1xt"
+    },
+    "20240527172503-6k9ljq0": {
+      "endId": "20240527172503-q0t7qah",
+      "focusEnd": 0,
+      "focusId": "20240527172503-q0t7qah",
+      "focusStart": 0,
+      "rootId": "20240527172503-6k9ljq0",
+      "scrollTop": 0,
+      "startId": "20240527172503-q0t7qah"
     }
+  },
+  "local-outline": {
+    "keepExpand": true
+  },
+  "local-searchkeys": {
+    "col": "",
+    "colTab": "",
+    "keys": [
+      "#LVGL#",
+      "#ESP32#",
+      "LVGL",
+      "文件系统",
+      "#",
+      "#问题",
+      "#LVGL",
+      ""
+    ],
+    "layout": 0,
+    "layoutTab": 0,
+    "replaceKeys": [],
+    "row": "616px",
+    "rowTab": "575px"
   }
 }
