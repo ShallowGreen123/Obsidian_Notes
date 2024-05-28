@@ -26,41 +26,58 @@
     },
     "20240524163501-iv80qf6": {
       "endId": "20240525170640-sask72z",
-      "focusEnd": 3,
-      "focusId": "20240524212514-eggavwz",
-      "focusStart": 3,
+      "focusEnd": 0,
+      "focusId": "20240524203401-78dr910",
+      "focusStart": 0,
       "rootId": "20240524163501-iv80qf6",
-      "scrollTop": 3464,
+      "scrollTop": 1764,
       "startId": "20240524203401-78dr910"
     },
     "20240524203411-9njzsum": {
       "endId": "20240525170338-ouqns52",
-      "focusEnd": 55,
-      "focusId": "20240525170357-nzegc65",
-      "focusStart": 55,
+      "focusEnd": 0,
+      "focusId": "20240524203726-lx6uc12",
+      "focusStart": 0,
       "rootId": "20240524203411-9njzsum",
-      "scrollTop": 0,
-      "startId": "20240524204954-hddjbb3"
+      "scrollTop": 2800,
+      "startId": "20240524203726-lx6uc12"
     },
     "20240525172435-fvelfxi": {
       "endId": "20240527172427-8gt9i9k",
-      "focusEnd": 0,
-      "focusId": "20240527172435-wnme0w5",
-      "focusStart": 0,
+      "focusEnd": 9,
+      "focusId": "20240525172457-dqcekhl",
+      "focusStart": 9,
       "rootId": "20240525172435-fvelfxi",
-      "scrollTop": 11176,
-      "startId": "20240525172457-lc4c1xt"
+      "scrollTop": 14887,
+      "startId": "20240525172457-70i3odn"
     },
     "20240527172503-6k9ljq0": {
-      "endId": "20240527172503-q0t7qah",
-      "focusEnd": 0,
-      "focusId": "20240527172503-q0t7qah",
-      "focusStart": 0,
+      "endId": "20240527174201-2hfol83",
+      "focusEnd": 37,
+      "focusId": "20240527173126-8dxzow3",
+      "focusStart": 37,
       "rootId": "20240527172503-6k9ljq0",
-      "scrollTop": 0,
-      "startId": "20240527172503-q0t7qah"
+      "scrollTop": 519,
+      "startId": "20240528174451-k83muna"
+    },
+    "20240528094356-fn6mwcr": {
+      "endId": "20240528173011-k7dcnn6",
+      "focusEnd": 7,
+      "focusId": "20240528151706-nn7a6yt",
+      "focusStart": 7,
+      "rootId": "20240528094356-fn6mwcr",
+      "scrollTop": 173,
+      "startId": "20240528094841-hu2avim"
     }
   },
+  "local-fontstyles": [
+    "color​var(--b3-font-color1)",
+    "style1​var(--b3-card-warning-background)​var(--b3-card-warning-color)",
+    "style1​var(--b3-card-error-background)​var(--b3-card-error-color)",
+    "style2​undefined",
+    "style4​undefined",
+    "backgroundColor​var(--b3-font-background10)"
+  ],
   "local-outline": {
     "keepExpand": true
   },
@@ -69,18 +86,19 @@
     "colTab": "",
     "keys": [
       "#LVGL#",
+      "#PlatformIO#",
       "#ESP32#",
+      "",
       "LVGL",
       "文件系统",
       "#",
       "#问题",
-      "#LVGL",
-      ""
+      "#LVGL"
     ],
     "layout": 0,
     "layoutTab": 0,
     "replaceKeys": [],
     "row": "616px",
-    "rowTab": "575px"
+    "rowTab": "368px"
   }
 }
