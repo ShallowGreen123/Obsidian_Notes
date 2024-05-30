@@ -1,5 +1,13 @@
 {
   "local-codelang": "c",
+  "local-dialogposition": {
+    "dialog-emojis": {
+      "height": 414,
+      "left": 90,
+      "top": 152,
+      "width": 360
+    }
+  },
   "local-exportpdf": {
     "keepFold": false,
     "landscape": false,
@@ -44,11 +52,11 @@
     },
     "20240525172435-fvelfxi": {
       "endId": "20240527172427-8gt9i9k",
-      "focusEnd": 9,
-      "focusId": "20240525172457-dqcekhl",
-      "focusStart": 9,
+      "focusEnd": 72,
+      "focusId": "20240525172457-n5o2ink",
+      "focusStart": 72,
       "rootId": "20240525172435-fvelfxi",
-      "scrollTop": 14887,
+      "scrollTop": 15487,
       "startId": "20240525172457-70i3odn"
     },
     "20240527172503-6k9ljq0": {
@@ -66,7 +74,7 @@
       "focusId": "20240528151706-nn7a6yt",
       "focusStart": 7,
       "rootId": "20240528094356-fn6mwcr",
-      "scrollTop": 173,
+      "scrollTop": 1136,
       "startId": "20240528094841-hu2avim"
     }
   },
