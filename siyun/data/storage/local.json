@@ -6,6 +6,12 @@
       "left": 90,
       "top": 152,
       "width": 360
+    },
+    "dialog-search": {
+      "height": 749,
+      "left": 60,
+      "top": 32,
+      "width": 1241
     }
   },
   "local-exportpdf": {
@@ -52,12 +58,12 @@
     },
     "20240525172435-fvelfxi": {
       "endId": "20240527172427-8gt9i9k",
-      "focusEnd": 22,
-      "focusId": "20240525172457-n5o2ink",
-      "focusStart": 22,
+      "focusEnd": 31,
+      "focusId": "20240527172427-8gt9i9k",
+      "focusStart": 31,
       "rootId": "20240525172435-fvelfxi",
-      "scrollTop": 15517,
-      "startId": "20240525172457-70i3odn"
+      "scrollTop": 10391,
+      "startId": "20240525172457-bmt00vk"
     },
     "20240527172503-6k9ljq0": {
       "endId": "20240527174201-2hfol83",
@@ -74,7 +80,7 @@
       "focusId": "20240528151706-nn7a6yt",
       "focusStart": 7,
       "rootId": "20240528094356-fn6mwcr",
-      "scrollTop": 1136,
+      "scrollTop": 2936,
       "startId": "20240528094841-hu2avim"
     },
     "20240601183152-2aspgjw": {
@@ -83,7 +89,7 @@
       "focusId": "20240601184701-rhc6dmj",
       "focusStart": 3,
       "rootId": "20240601183152-2aspgjw",
-      "scrollTop": 200,
+      "scrollTop": 1472,
       "startId": "20240601194805-l54vld5"
     }
   },
@@ -102,20 +108,20 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "#问题",
+      "#",
       "#LVGL#",
       "#PlatformIO#",
       "#ESP32#",
       "",
       "LVGL",
       "文件系统",
-      "#",
-      "#问题",
       "#LVGL"
     ],
     "layout": 0,
     "layoutTab": 0,
     "replaceKeys": [],
-    "row": "616px",
+    "row": "314px",
     "rowTab": "368px"
   }
 }
