@@ -1,5 +1,5 @@
 {
-  "local-codelang": "dsconfig",
+  "local-codelang": "c",
   "local-dialogposition": {
     "dialog-emojis": {
       "height": 414,
@@ -44,7 +44,7 @@
       "focusId": "20240524203401-78dr910",
       "focusStart": 0,
       "rootId": "20240524163501-iv80qf6",
-      "scrollTop": 1764,
+      "scrollTop": 1030,
       "startId": "20240524203401-78dr910"
     },
     "20240524203411-9njzsum": {
@@ -57,21 +57,21 @@
       "startId": "20240524203726-lx6uc12"
     },
     "20240525172435-fvelfxi": {
-      "endId": "20240525172457-bi5074q",
-      "focusEnd": 5,
-      "focusId": "20240617093105-hleuccb",
-      "focusStart": 5,
+      "endId": "20240620175337-qcfmf8f",
+      "focusEnd": 16,
+      "focusId": "20240606141007-lkgy1cg",
+      "focusStart": 9,
       "rootId": "20240525172435-fvelfxi",
-      "scrollTop": 0,
-      "startId": "20240617093105-hleuccb"
+      "scrollTop": 13535,
+      "startId": "20240525172457-xpmv285"
     },
     "20240527172503-6k9ljq0": {
       "endId": "20240527174201-2hfol83",
-      "focusEnd": 102,
+      "focusEnd": 1,
       "focusId": "20240527174310-kzo975q",
-      "focusStart": 66,
+      "focusStart": 1,
       "rootId": "20240527172503-6k9ljq0",
-      "scrollTop": 1954,
+      "scrollTop": 1966,
       "startId": "20240528174451-k83muna"
     },
     "20240528094356-fn6mwcr": {
@@ -80,13 +80,16 @@
       "focusId": "20240528151706-nn7a6yt",
       "focusStart": 7,
       "rootId": "20240528094356-fn6mwcr",
-      "scrollTop": 900,
+      "scrollTop": 1515,
       "startId": "20240528094841-hu2avim"
     },
     "20240601183152-2aspgjw": {
       "endId": "20240601203210-iarcnbk",
+      "focusEnd": 0,
+      "focusId": "20240601194805-l54vld5",
+      "focusStart": 0,
       "rootId": "20240601183152-2aspgjw",
-      "scrollTop": 1035,
+      "scrollTop": 1300,
       "startId": "20240601194805-l54vld5"
     },
     "20240608234810-ja5z3xc": {
@@ -95,7 +98,7 @@
       "focusId": "20240608234841-bm3613s",
       "focusStart": 0,
       "rootId": "20240608234810-ja5z3xc",
-      "scrollTop": 100,
+      "scrollTop": 731,
       "startId": "20240608234841-bm3613s"
     },
     "20240617103355-pxhgnij": {
@@ -104,26 +107,32 @@
       "focusId": "20240618180627-5usdui5",
       "focusStart": 17,
       "rootId": "20240617103355-pxhgnij",
-      "scrollTop": 700,
+      "scrollTop": 427,
       "startId": "20240617103355-s6xu8ha"
     },
     "20240618093114-5uk2h2j": {
       "endId": "20240618143412-9vgpq4z",
-      "focusEnd": 3,
-      "focusId": "20240618143241-bdnaaz5",
-      "focusStart": 3,
       "rootId": "20240618093114-5uk2h2j",
-      "scrollTop": 10217,
+      "scrollTop": 8939,
       "startId": "20240618093121-oubw40a"
     },
     "20240619091950-qky83hz": {
       "endId": "20240619103658-78uk5zc",
-      "focusEnd": 3,
-      "focusId": "20240619103454-5l2pw3z",
-      "focusStart": 3,
+      "focusEnd": 4,
+      "focusId": "20240619102118-fhk2w8z",
+      "focusStart": 4,
       "rootId": "20240619091950-qky83hz",
-      "scrollTop": 2543,
+      "scrollTop": 0,
       "startId": "20240619093749-i98ogji"
+    },
+    "20240624152311-kj8i8hl": {
+      "endId": "20240624160949-svhwe3x",
+      "focusEnd": 3,
+      "focusId": "20240624152744-m0ccsbr",
+      "focusStart": 3,
+      "rootId": "20240624152311-kj8i8hl",
+      "scrollTop": 986,
+      "startId": "20240624152323-jtrh1ec"
     }
   },
   "local-fontstyles": [
@@ -141,6 +150,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "T-Holaw",
       "#PlatformIO#",
       "#WiFI Halow#",
       "#LVGL#",
@@ -154,7 +164,9 @@
     ],
     "layout": 0,
     "layoutTab": 0,
-    "replaceKeys": [],
+    "replaceKeys": [
+      "T-Halow"
+    ],
     "row": "314px",
     "rowTab": "522px"
   }
