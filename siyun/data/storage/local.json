@@ -1,5 +1,5 @@
 {
-  "local-codelang": "c",
+  "local-codelang": "txt",
   "local-dialogposition": {
     "dialog-emojis": {
       "height": 414,
@@ -58,11 +58,11 @@
     },
     "20240525172435-fvelfxi": {
       "endId": "20240620175337-qcfmf8f",
-      "focusEnd": 16,
-      "focusId": "20240606141007-lkgy1cg",
-      "focusStart": 9,
+      "focusEnd": 33,
+      "focusId": "20240606141019-psop48q",
+      "focusStart": 33,
       "rootId": "20240525172435-fvelfxi",
-      "scrollTop": 13535,
+      "scrollTop": 13387,
       "startId": "20240525172457-xpmv285"
     },
     "20240527172503-6k9ljq0": {
@@ -117,12 +117,12 @@
       "startId": "20240618093121-oubw40a"
     },
     "20240619091950-qky83hz": {
-      "endId": "20240619103658-78uk5zc",
-      "focusEnd": 4,
-      "focusId": "20240619102118-fhk2w8z",
-      "focusStart": 4,
+      "endId": "20240628153910-4jgqlpz",
+      "focusEnd": 104,
+      "focusId": "20240624172130-7tkz8p8",
+      "focusStart": 98,
       "rootId": "20240619091950-qky83hz",
-      "scrollTop": 0,
+      "scrollTop": 2500,
       "startId": "20240619093749-i98ogji"
     },
     "20240624152311-kj8i8hl": {
@@ -150,6 +150,7 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "Holaw ",
       "T-Holaw",
       "#PlatformIO#",
       "#WiFI Halow#",
@@ -165,6 +166,7 @@
     "layout": 0,
     "layoutTab": 0,
     "replaceKeys": [
+      "Halow",
       "T-Halow"
     ],
     "row": "314px",
