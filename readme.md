@@ -11,6 +11,17 @@
 
 Dylan1
 
-| 泥猴  | 覅挨冻 |
-| --- | --- |
-|     |     |
+|                          AT cmd                          |           Help           |
+| :------------------------------------------------------: | :----------------------: |
+|                            AT                            |       Sample test        |
+|                           AT?                            |         Get help         |
+|                         AT+VER?                          |       Get ver help       |
+|                         AT+VER=?                         |       Run get ver        |
+|                        AT+TCONF?                         |     Get config help      |
+|                        AT+TCONF=?                        |      Run get config      |
+|    AT+TCONF=868000000:22:4:12:4/5:0:0:1:16:25000:2:3     |     Modulation LORA      |
+| AT+TCONF=868000000:22:10000:10000:4/5:0:0:3:16:25000:2:3 |      Modulation FSK      |
+| AT+TCONF=868000000:22:50000:50000:4/5:0:0:0:16:25000:2:3 |      Modulation MSK      |
+|                         AT+TTONE                         |    Start RF Tone test    |
+|                         AT+TRSSI                         | Starts RF RSSI tone test |
+|                        AT+TTX=10                         | Set the number of tests  |
