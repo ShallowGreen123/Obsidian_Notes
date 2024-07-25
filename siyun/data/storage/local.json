@@ -1,4 +1,11 @@
 {
+  "local-bazaar": {
+    "icon": "0",
+    "plugin": "2",
+    "template": "0",
+    "theme": "0",
+    "widget": "0"
+  },
   "local-codelang": "txt",
   "local-dialogposition": {
     "dialog-emojis": {
@@ -133,6 +140,15 @@
       "rootId": "20240624152311-kj8i8hl",
       "scrollTop": 986,
       "startId": "20240624152323-jtrh1ec"
+    },
+    "20240722105954-zjroa5l": {
+      "endId": "20240722105954-w3f32wu",
+      "focusEnd": 0,
+      "focusId": "20240722110008-j8utw8b",
+      "focusStart": 0,
+      "rootId": "20240722105954-zjroa5l",
+      "scrollTop": 0,
+      "startId": "20240722110008-j8utw8b"
     }
   },
   "local-fontstyles": [
@@ -150,12 +166,12 @@
     "col": "",
     "colTab": "",
     "keys": [
+      "#ESP32#",
+      "#LVGL#",
+      "#WiFI Halow#",
       "Holaw ",
       "T-Holaw",
       "#PlatformIO#",
-      "#WiFI Halow#",
-      "#LVGL#",
-      "#ESP32#",
       "#问题",
       "#",
       "",

@@ -25,3 +25,10 @@ Dylan1
 |                         AT+TTONE                         |    Start RF Tone test    |
 |                         AT+TRSSI                         | Starts RF RSSI tone test |
 |                        AT+TTX=10                         | Set the number of tests  |
+
+
+|        模组名称        |     正面丝印区分     |    过认证情况     |                       备注                        |
+| :----------------: | :------------: | :----------: | :---------------------------------------------: |
+|    TX-AH-R900P     | 左下角 P9，右下角 P9  | 可过 FCC/CE 认证 |             支持 860MHz ~  <br>928MHz             |
+|   TX-AH-R900PNR    | 左下角 P9， 右下角 NR |  可过 FCC 认证   | 支持 902MHz ~  <br>928MHz， 带 915M Saw  <br>改善接收性能 |
+| TX-AH-R900PNR-860M | 左下角 86， 右下角 NR |   可过 CE 认证   | 支持 859MHz ~  <br>894MHz， 带 875M Saw  <br>改善接收性能 |
