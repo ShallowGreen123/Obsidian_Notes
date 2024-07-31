@@ -87,7 +87,7 @@
       "focusId": "20240528094841-hu2avim",
       "focusStart": 0,
       "rootId": "20240528094356-fn6mwcr",
-      "scrollTop": 251,
+      "scrollTop": 866,
       "startId": "20240528094841-hu2avim"
     },
     "20240601183152-2aspgjw": {
@@ -174,11 +174,17 @@
     "20240726100006-s57p40s": {
       "endId": "20240726100229-kjx945e",
       "focusEnd": 27,
-      "focusId": "20240726100006-wb5kn5g",
+      "focusId": "20240726100109-pzfyrx0",
       "focusStart": 27,
       "rootId": "20240726100006-s57p40s",
       "scrollTop": 0,
       "startId": "20240726100109-pzfyrx0"
+    },
+    "20240731174000-x1cba1g": {
+      "endId": "20240731174000-srwy737",
+      "rootId": "20240731174000-x1cba1g",
+      "scrollTop": 0,
+      "startId": "20240731174000-srwy737"
     }
   },
   "local-fontstyles": [
@@ -217,5 +223,6 @@
     ],
     "row": "314px",
     "rowTab": "522px"
-  }
+  },
+  "local-zoom": 1.1
 }

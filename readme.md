@@ -32,3 +32,11 @@ Dylan1
 |    TX-AH-R900P     | 左下角 P9，右下角 P9  | 可过 FCC/CE 认证 |             支持 860MHz ~  <br>928MHz             |
 |   TX-AH-R900PNR    | 左下角 P9， 右下角 NR |  可过 FCC 认证   | 支持 902MHz ~  <br>928MHz， 带 915M Saw  <br>改善接收性能 |
 | TX-AH-R900PNR-860M | 左下角 86， 右下角 NR |   可过 CE 认证   | 支持 859MHz ~  <br>894MHz， 带 875M Saw  <br>改善接收性能 |
+
+
+|       说明       |                                                                   链接                                                                    |
+|:----------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+| ESP-IDF 编程指南 | [ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32s3/api-guides/tools/idf-component-manager.html) |
+|   ESP 组件仓库   |                                        [ESP Component Registry](https://components.espressif.com/)                                        |
+|   ESP 组件管理   |                                                                                                                                           |
+|                  |                                                                                                                                           |
