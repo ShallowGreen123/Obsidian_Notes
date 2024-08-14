@@ -27,16 +27,12 @@ Dylan1
 |                        AT+TTX=10                         | Set the number of tests  |
 
 
-|        模组名称        |     正面丝印区分     |    过认证情况     |                       备注                        |
-| :----------------: | :------------: | :----------: | :---------------------------------------------: |
-|    TX-AH-R900P     | 左下角 P9，右下角 P9  | 可过 FCC/CE 认证 |             支持 860MHz ~  <br>928MHz             |
-|   TX-AH-R900PNR    | 左下角 P9， 右下角 NR |  可过 FCC 认证   | 支持 902MHz ~  <br>928MHz， 带 915M Saw  <br>改善接收性能 |
-| TX-AH-R900PNR-860M | 左下角 86， 右下角 NR |   可过 CE 认证   | 支持 859MHz ~  <br>894MHz， 带 875M Saw  <br>改善接收性能 |
-
-
-|       说明       |                                                                   链接                                                                    |
-|:----------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
-| ESP-IDF 编程指南 | [ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32s3/api-guides/tools/idf-component-manager.html) |
-|   ESP 组件仓库   |                                        [ESP Component Registry](https://components.espressif.com/)                                        |
-|   ESP 组件管理   |                                                                                                                                           |
-|                  |                                                                                                                                           |
+|           Frequency setting description           | [docs](./hardware/TX_AH/泰芯802.11AH%20Frequency%20setting%20description_20231130110312.pdf)                       |
+|:-------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------ |
+| TX-AH-Rx00P Series module technical specification | [docs](./hardware/TX_AH/泰芯802.11ah TX-AH-Rx00P%20Series%20module%20technical%20specification_20231116174457.pdf) |
+|          TX-AH-Rx00P Bridge instructions          | [docs](./hardware/TX_AH//泰芯AH%20Bridge%20instructions_20230908122753.pdf)                                        |
+|    AH Module AT instruction development guide     | [docs](./hardware/TX_AH/泰芯AH%20Module%20AT%20instruction%20development%20guide_20230524100503.pdf)               |
+|     AH Module development board instructions      | [docs](./hardware/TX_AH/泰芯AH%20Module%20development%20board%20instructions_20230621205234.pdf)                   |
+|          AH Module hardware Design Guide          | [docs](./hardware/TX_AH/泰芯AH%20Module%20hardware%20Design%20Guide_20230621170639.pdf)                            |
+|            AH Performance test method             | [docs](./hardware/TX_AH/泰芯AH%20Performance%20test%20method_20230908122816.pdf)                                   |
+|           AH-RF EMC Certification guide           | [docs](./hardware/TX_AH/泰芯AH-RF EMC%20Certification%20guide_20230720140052.pdf)                                  |
