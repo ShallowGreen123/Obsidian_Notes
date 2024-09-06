@@ -239,6 +239,35 @@
                     {
                       "children": {
                         "action": "cb-get-scroll",
+                        "blockId": "20240902152010-yvp4420",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240902152119-y8vs09b",
+                        "rootId": "20240902152010-yvp4420"
+                      },
+                      "docIcon": "1f4dd",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Github Action"
+                    },
+                    {
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20240903142552-nkgieqv",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240731101956-29zvmvz",
+                        "rootId": "20240903142552-nkgieqv"
+                      },
+                      "docIcon": "1f4dd",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "PlatformIO"
+                    },
+                    {
+                      "active": true,
+                      "children": {
+                        "action": "cb-get-scroll",
                         "blockId": "20240525172435-fvelfxi",
                         "instance": "Editor",
                         "mode": "wysiwyg",
@@ -249,34 +278,6 @@
                       "instance": "Tab",
                       "pin": false,
                       "title": "工作日志"
-                    },
-                    {
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20240726100006-s57p40s",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20240726095958-azoz216",
-                        "rootId": "20240726100006-s57p40s"
-                      },
-                      "docIcon": "1f4dd",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "Ubuntu"
-                    },
-                    {
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20240809142950-273ujnq",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20240525172433-jn71xnf",
-                        "rootId": "20240809142950-273ujnq"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "T-Display-S3-AMOLED Mirror screen display"
                     },
                     {
                       "children": {
@@ -295,59 +296,58 @@
                     {
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20240806094728-xm96b34",
+                        "blockId": "20240904151636-8u6hidg",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20240525172433-jn71xnf",
-                        "rootId": "20240806094728-xm96b34"
+                        "notebookId": "20240902152119-y8vs09b",
+                        "rootId": "20240904151636-8u6hidg"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "烧录固件"
+                      "title": "esp-idf"
                     },
                     {
-                      "active": true,
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20240730092847-opjylwy",
+                        "blockId": "20240903104647-fdln1de",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20240525172433-jn71xnf",
-                        "rootId": "20240730092847-opjylwy"
+                        "notebookId": "20240902152119-y8vs09b",
+                        "rootId": "20240903104647-fdln1de"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "T-Halow 快速开始"
+                      "title": "PlatformIO"
                     },
                     {
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20240624152311-kj8i8hl",
+                        "blockId": "20240829165943-97dbtt5",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20240525172433-jn71xnf",
-                        "rootId": "20240624152311-kj8i8hl"
+                        "rootId": "20240829165943-97dbtt5"
                       },
-                      "docIcon": "1f4dd",
+                      "docIcon": "1f4d7",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "测试图片"
+                      "title": "未命名"
                     },
                     {
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20240619091950-qky83hz",
+                        "blockId": "20240902152542-ke4rk4g",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20240525172433-jn71xnf",
-                        "rootId": "20240619091950-qky83hz"
+                        "notebookId": "20240902152119-y8vs09b",
+                        "rootId": "20240902152542-ke4rk4g"
                       },
-                      "docIcon": "1f4dd",
+                      "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "T-Halow 测试说明"
+                      "title": "Github Action"
                     }
                   ],
                   "height": "",
@@ -523,7 +523,7 @@
       "pin": true
     }
   },
-  "userData": "d716d5d6812229ac440f08261821941ac231dc74345507a183900debd8599b13b593c87930d6c80e24241f46fa94677e7d8bd887dd9a1146beb2193ff7240586e3cb77ba9ba8986f12f427e6b38695f65c9f03ea9a8c7268496282ab3533b3d096d55499a01f221a2d2849530e494b4ab3294eaca5a52f17292a1669d740bfa270d3751a92866f5d2b3cf210b6ecfa9f32484f6faf83d06807056238b447c01fbd1ea49a6826ae46923ac15620cad26e537183ae1fa67b09a4d31406dca21d8f3fa2b07fc42a62a380e9a06c880ca8f153d590e76b9ef67494da3832740236b26fd30e9d8a433c9f50c5c7d44bb28d90a406e3009ad06248728fb36bd079bc96caa36cee8db0ce23d695bad3c2a5586a6d1b1644266887bd66f8d4d9b2aed2d367009c2f9f06c8ad7f514b74eee7e48b28b4c3b225fbc9fc1ec112b4793649438d298ac2cf54e33d7e2628919bd980e2a833531eea3fdd6209d104605d58404ef6936a26d9524b8215028be9d64036e58da41f9fdd13ae07a46b7fa2a5e0f53c6c9c3361a05879952728bb812f9792807e254a3049eb6b5a2aadae7a3117a58cd6a997aed440a9ab8bda9cab509b56bbd202786b5e965d2377ed53fbc46c33b2764886e1361d352fde2b0a2c10b5eb0ae3d8d3726c1f29d04b3e56d2d17ac57d3a7edecd6172685b90b3f81b313069911c96dd71bae85b4075b5edd94096ed6aee984bffe8b73b9950306ebb0edbd7b25daf92ceea985e47525613cf8439335221d111c0531b4de3e5be4cfc7df888aaae20f61bec17a6370d90699db45490577f6e03b0cb4f7c9e1d3ecc49408589150b16e6d9ca45592e95aaad12c83167d3866817163cd9e143a1120755e1561a200f9fb277d3f76f2a6c71dc41257bc7b9bee3cd412e26bc1dcbb411c5603f4d0037bb87a143b6fcfd5565e02c827430e790498e224bb4334ee16d75d74f04e648e5bf393f3bd2355fbf48d352339f7d944c565c78293f878ec3d51e13887227fff206895af9c6cec34e72ea0b5232cd037932fbf1eb4121dd4bd4a3cfb1f389f79bfc32234fc77249efa2b8b7b531b8faec993cd069e9cf4634eaf73a69843400c13f1ca4b7e6e168681140eaf8f1dda2247bcb12e2f73525ac7d74f9a7133d2914e369e7848041ca7126844936bf6b032b4f5af4a8e378be1905b16642e0c74f3249ebe0167915d003a80724c6520f53997c98716c3cb4b3d6f204e4fb9849807a812160c50e52f03e3198799beed189576a88b8032953fc71121e7875350fa2181f674e714923098ab52f4fe560e2c69c0a00cf9093b3a0176f2d01823ab7526ec4bd03f9961df69ea46269f6b0e239601855ee186923fb2d1a5d04908650b6ab3b98def0ea6e89f21855e0dcafd58c982f870909da881c672b3aa660df7628a9de5768b2a8c7efc2799a4d6b8573519e8179fd286cae4070c48a56d7bfa653c69eb17897244982b4bf2899c8953bca9b528ac2d0d1bbbf13dc0ebc26c8465cf6986924f68b558ec79d71a369cf60bfb8b4e40f305a9385c53b6ffac056070d9265bc3b3d392c4584b8214a448658aad922c83ddf4b59e3d92377729c08111275a42b1858be3d1c285d8ba9742e2a98f92a212a6907bd8bc098aa058f275a88ce26c795e9ff962b598c4f0fe83b5e1d0956d217851444ec6cddf4025c78eed2b268ad5ac2a40d8d6d55f7cc640a2249b18d0ba44ba9daf2152562ad4eaae454452eb17c26d11a4c05415d22697edacd84b77ed15b95c5629efe78332b56e7f0d6d10fe74acd36634f2d072c60c7136207732465206aae170444665f90f0ae33dfc51ed7f4ce0a81dad68b686446383ea0ff896db5cdfbf328fff1e387eead25ce32cc32b5641decf63836274ddd48abca19b89fa24d13d0e00a07593596eb7525ed14f244ca76eadff155fc20f42b25f4700a5e257edacd1a23714bf2d1715e731898ecb57388620e031b74cce4b805076b20e008c4f7536ce74ae9df73498ebd1a4a0d5af35f16bc5c1384f98e3b8a157cf62744eb843bb9470da358ed6aefa55d752098e0b430c788736ed7ec0d83483bafb45a22ad888f70324c29a0fe8559e6509ed2fe49748c241d00c29d7acc316a77c90d5f8a9903bab90dd6ee11a4f7431839d72154d3636929abdcf9a5d0d1c6e9ec888fcbe7764e9a7b9f8dac998b662b70bd95a9db0ec7a53aa86a04a7a2b508aded9b08bac6595681972b5434f18ed3758e5655e8d572d6ef97f2e031a986c252b7c6091be8e6246779f58efd6d86d3197779f845f5d0b748081391f64df1b9b8c690085561135edc19016383ec3eee73570ec365641e3bdef556d09d5d89d5b3e9e8b890de8b56e066d418d9cbcc76878e16e631043694c16d3523c4c091660c9af57e191908e8fd31c98f63f4be8c892d398ba542df0fce0db7a91e489a773696dcfa8ccb4ef554a97eea1d709253c798307f29ec1a9c6f13ed4251342c77dbdacd55c7c9e767a41988ee0d3ddd9ab97f22a40e1a1163a745e88e88ecf2bbe416ead257eddd6905c9ff36dcff5c6c6c2dce0569d456122477d1dccd87adcab698636b635270e3ce9f687f19d676f1544c24d34e095d7701419dd4980885e282595fdd1affa3067f41154008ec9a698e0214d33c29aa1e2e281f25438a72709086509a6d2bd8b915a08e939416f87cb670596f6317fbbf8ae315ac56af877b96f73d5795caaf4879228bc97e3c27d4ffeac9567aa6b2e41e6bebae21c61b9b69c20e48aef5b054be15387ebfc5130eb29e11955970e55447463f8c8e8ec8ad497e239847e6c25f75cad7e885533e1cf8ae19c292712bff4cebc9d571194a7a3969b0fa2745ce37c8a3b3e9edf07034cbd71452e23941b4e8cbdb14ff76571ae1332a990d5419dbc2746e74e8aea957e61ef9549c7f02d69ecee3ea23c4d8775a458f5a39fbdaaa529311aba442d92a3c2446c2e902421ae899b9abcd6c4766fd4607c27265b0760b88e306a91dd8d0b0db4bd8f64efc71b9e94e353a9742bbd8f47238567bda10650cc1c3f11f09d2218c53fbe029e41a38903e53de073ba27181e20bffa606e77b9b6840b1d8b9bf0610c7dc8e92630302b54c952a87b83f7679298fc1fb0bc5311ee84dfc2bc41b0bc07af0f8365324b4b06d99bcb1f7b37149a8cacfdadaeaf76714fa2f01df5d0d2e607fbdaf65288ff617a17185e17cd3013d09e878a821abcbded22ef67918a941557ff5aa9088219a122bea6deb0b6223bcbd966301713d9fc2968d6b86e52e2fc1de7047eaa7141cbf0cad",
+  "userData": "d716d5d6812229ac440f08261821941ac231dc74345507a183900debd8599b13b593c87930d6c80e24241f46fa94677e7d8bd887dd9a1146beb2193ff7240586e3cb77ba9ba8986f12f427e6b38695f65c9f03ea9a8c7268496282ab3533b3d096d55499a01f221a2d2849530e494b4ab3294eaca5a52f17292a1669d740bfa270d3751a92866f5d2b3cf210b6ecfa9f32484f6faf83d06807056238b447c01fbd1ea49a6826ae46923ac15620cad26e537183ae1fa67b09a4d31406dca21d8f3fa2b07fc42a62a380e9a06c880ca8f153d590e76b9ef67494da3832740236b26fd30e9d8a433c9f50c5c7d44bb28d90a406e3009ad06248728fb36bd079bc96caa36cee8db0ce23d695bad3c2a5586a6d1b1644266887bd66f8d4d9b2aed2d367009c2f9f06c8ad7f514b74eee7e48b28b4c3b225fbc9fc1ec112b4793649438d298ac2cf54e33d7e2628919bd980e2a833531eea3fdd6209d104605d58404ef6936a26d9524b8215028be9d64036e58da41f9fdd13ae07a46b7fa2a5e0f53c6c9c3361a05879952728bb812f9792807e254a3049eb6b5a2aadae7a3117a58cd6a997aed440a9ab8bda9cab509b56bbd202786b5e965d2377ed53fbc46c33b2764886e1361d352fde2b0a2c10b5eb0ae3d8d3726c1f29d04b3e56d2d17ac57d3a7edecd6172685b90b3f81b313069911c96dd71bae85b4075b5edd94096ed6aee984bffe8b73b9950306ebb0edbd7b25daf92ceea985e47525613cf8439335221d111c0531b4de3e5be4cfc7df888aaae20f61bec17a6370d90699db45490577f6e03b0cb4f7c9e1d3ecc49408589150b16e6d9ca45592e95aaad12c83167d3866817163cd9e143a1120755e1561a200f9fb277d3f76f2a6c71dc41257bc7b9bee3cd412e26bc1dcbb411c5603f4d0037bb87a143b6fcfd5565e02c827430e790498e224bb4334ee16d75d74f04e648e5bf393f3bd2355fbf48d352339f7d944c565c78293f878ec3d51e13887227fff206895af9c6cec34e72ea0b5232cd037932fbf1eb4121dd4bd4a3cfb1f389f79bfc32234fc77249efa2b8b7b531b8faec993cd069e9cf4634eaf73a69843400c13f1ca4b7e6e168681140eaf8f1dda2247bcb12e2f73525ac7d74f9a7133d2914e369e7848041ca7126844936bf6b032b4f5af4a8e378be1905b16642e0c74f3249ebe0167915d003a80724c6520f53997c98716c3cb4b3d6f204e4fb9849807a812160c50e52f03e3198799beed189576a88b8032953fc71121e7875350fa2181f674e714923098ab52f4fe560e2c69c0a00cf9093b3a0176f2d01823ab7526ec4bd03f9961df69ea46269f6b0e239601855ee186923fb2d1a5d04908650b6ab3b98def0ea6e89f21855e0dcafd58c982f870909da881c672b3aa660df7628a9de5768b2a8c7efc2799a4d6b8573519e8179fd286cae4070c48a56d7bfa653c69eb17897244982b4bf2899c8953bca9b528ac2d0d1bbbf13dc0ebc26c8465cf6986924f68b558ec79d71a369cf60bf9605bf8bd58d4b7300576cb5cee4f8e5f5ac145d22df69ce75dfe074e8b0e5b066ddc38b18da7acf7dffdd5b923d79d618dd3e26bc18073bd451462dfd205b8a8947036f274235ff737a2aac0a70b2e852a0788b82b12ca3cd90a4d6c909a33484ca180dcf7d4cd711f08e58566973492db560bf4aa9dfcdbf4d5594c6a8a961e8a0019872180ce5e94776c91b52cfaafe164febcc695db1a866bed3673b82c2e324dd58c2960611204182048f16246e06f9b267ed1ddc4a01af54c7091d7e54ff88cc5bcf7a8972192e6ae6b026068db319bcb10dc86f87fdeb3a2b427837d81d4f0162c263273c95a79cb5d02f2045510149e1cdf44859d11135ffff17b68b74b7d2b7e80c4979e7e80b37cf2be403c670aa65441772bb90262850f389b071806431ab6efeecc46ee1d47941e44710b4e6b7761594822e42027e27e4e4a65dc06fde0a927214be25539803c5202f8de6d2aed1f5273123cf93b64c328ccbe6d29ad620a69d5af2dcd9351c459dd38d5947746e47290955fa4a57b15f98d1d79a0aa1f6b5b40ddcb2519475dad17950b72bb249412bec639725448bc6b2c2270d47ff42a194423bc4a8d5bc24b67319a4e45778fbe76a77adda7a690803557b251618b2cadd848bf744531b41df1dd40971bc032c36bb590cf04fb3e49c75ae30a78ae0625e20ea430f565cc91c51f37d42e08f8179f268cc42b6014af51463aca758cb20ae48bcef44ebf2cb7bf704f72bf20c09475bb0811c208582e526f7a454f85aa64bfba2f37e099dbb76ff6ebc4ff26ba1be302e21cb3344a4741f2bd0c2079b4bf02684cae5c7f17ad0dbb7f3c0bb58cce04747e8a4fda7a9da3e52b0b0d498f8630de33b0328f47202d2da75a8bea4f7b4a31e4da138e2ea47f3a1846b6e1aa148e3595e80a7a08969ca9b5d722f71e5a0f25f3ad4c6b0820feac758b45ea0c8c8a48d992554ef87f9e8de4b21a0effcea0abb75e8309ffa119cd58d1491ed8a8ee8ca73e05c9707c9c610019c9fb8ab8fde39ccc5d447f888d46153b202d6b88d4b8ca577df7641051f658ec26d6dde29beeb3353580ff720fafe0e4e60dd9f2cf98de14a2d8c0c555c78045ef64795bb03a1e5724ce3c90405760493822df77ee1e69b65c986101629df99648a285b0f8f08f1b08d2e37a6d3309193b19e95e05fcb8e57ddcdc4b226cacbddcc6fb1b176a57aa3fc3f5a62ffaa4ec83bf8ecdcf6ed767007f11775720dbcd5e0c5df79478afefb4db7a0de6d418bda744668016a310f4eba435f4b698d54ca31cb5a4df77abaafd95cf9d7e388fb3f79c4048ed68ed86cd7f1c424d9064b765efd4eca7a7f25505179c6493801eb810013de6f34e7c672dc431a8ebf0aa287e81d09e9a5340fdf83571f75010e650e7d086ba3b3caae50bd637e19c61d4ccaac5daba762927b4998f4381cc9268a0b63c21d257931c8a9f807d66e4770ae4ef7a77be991a3387ce0bf89ae2857d65c4c3bbdd8b6300b1fc7adf0bcc91636d8f88e2bcde7d75f390988bff972e8df61156c4484229e2b2ea063cdc5de6cfdf7a3cade9d965934b507a99cbf7f335e118009a4527ffcccf1bb401ef30cb439721bc9156c3d8343bf7ab9cd389bc57e3f86c3c5a6e0c4db6399db0e0929dd6969e10e9b79653f70d9bf08258ab465d894295a4574dc911275b13988695de87fba2e7cb91073b525f736d96281968f47013c43937165042dcd1ab1a253ffd616e4e6a86e6d38a07fe7460a577cd5e6",
   "account": {
     "displayTitle": true,
     "displayVIP": true
@@ -531,20 +531,20 @@
   "readonly": false,
   "localIPs": [
     "127.0.0.1",
-    "192.168.36.206",
+    "192.168.36.244",
     "192.168.183.88",
+    "169.254.114.110",
     "169.254.133.216",
     "169.254.58.27",
     "169.254.147.86",
-    "169.254.114.110",
     "169.254.103.206",
     "[::1]",
     "[fe80::280a:cf2d:cd5b:abcc]",
+    "[fe80::f89d:4423:fe44:726e]",
     "[fe80::b936:ef9c:50e:85d8]",
     "[fe80::cc43:e325:21e:3a1b]",
     "[fe80::e805:7521:9b85:9356]",
     "[fe80::e95e:9231:6958:ab57]",
-    "[fe80::f89d:4423:fe44:726e]",
     "[fe80::8d80:e8eb:2613:67ce]"
   ],
   "accessAuthCode": "",
@@ -1301,13 +1301,13 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 21,
+    "treeCount": 27,
     "cTreeCount": 100,
-    "blockCount": 1000,
+    "blockCount": 1083,
     "cBlockCount": 5000,
-    "dataSize": 39609860,
+    "dataSize": 39711427,
     "cDataSize": 104857600,
-    "assetsSize": 39166131,
+    "assetsSize": 39230173,
     "cAssetsSize": 104857600
   },
   "api": {

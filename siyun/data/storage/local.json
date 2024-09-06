@@ -6,13 +6,13 @@
     "theme": "0",
     "widget": "0"
   },
-  "local-codelang": "c",
+  "local-codelang": "yml",
   "local-dialogposition": {
     "dialog-emojis": {
-      "height": 414,
-      "left": 90,
-      "top": 152,
-      "width": 360
+      "height": 378,
+      "left": 64,
+      "top": 302,
+      "width": 358
     },
     "dialog-search": {
       "height": 681,
@@ -65,12 +65,12 @@
     },
     "20240525172435-fvelfxi": {
       "endId": "20240701093944-7db6m5o",
-      "focusEnd": 11,
-      "focusId": "20240812165900-en347l1",
-      "focusStart": 11,
+      "focusEnd": 9,
+      "focusId": "20240903162950-7jsoqcg",
+      "focusStart": 9,
       "rootId": "20240525172435-fvelfxi",
-      "scrollTop": 11538,
-      "startId": "20240525172457-p9blwn3"
+      "scrollTop": 4616.36376953125,
+      "startId": "20240606141007-lkgy1cg"
     },
     "20240527172503-6k9ljq0": {
       "endId": "20240527174201-2hfol83",
@@ -128,11 +128,11 @@
     },
     "20240619091950-qky83hz": {
       "endId": "20240628175440-3ohd7yy",
-      "focusEnd": 0,
-      "focusId": "20240808114226-jmze790",
-      "focusStart": 0,
+      "focusEnd": 24,
+      "focusId": "20240619102214-nqenvnh",
+      "focusStart": 24,
       "rootId": "20240619091950-qky83hz",
-      "scrollTop": 3089.0908203125,
+      "scrollTop": 6818,
       "startId": "20240808114226-jmze790"
     },
     "20240624152311-kj8i8hl": {
@@ -141,7 +141,7 @@
       "focusId": "20240624152323-jtrh1ec",
       "focusStart": 0,
       "rootId": "20240624152311-kj8i8hl",
-      "scrollTop": 136,
+      "scrollTop": 151,
       "startId": "20240624152323-jtrh1ec"
     },
     "20240713101125-gl7sdxh": {
@@ -173,9 +173,21 @@
     },
     "20240726100006-s57p40s": {
       "endId": "20240726100229-kjx945e",
+      "focusEnd": 0,
+      "focusId": "20240726100109-pzfyrx0",
+      "focusStart": 0,
       "rootId": "20240726100006-s57p40s",
-      "scrollTop": 416,
+      "scrollTop": 0,
       "startId": "20240726100109-pzfyrx0"
+    },
+    "20240726154021-bnlm9p7": {
+      "endId": "20240726172332-h6wxt23",
+      "focusEnd": 0,
+      "focusId": "20240726170735-4n8djdh",
+      "focusStart": 0,
+      "rootId": "20240726154021-bnlm9p7",
+      "scrollTop": 1181,
+      "startId": "20240726170735-4n8djdh"
     },
     "20240730092847-opjylwy": {
       "endId": "20240730094435-h5sd17e",
@@ -183,17 +195,20 @@
       "focusId": "20240730092858-x0465k6",
       "focusStart": 0,
       "rootId": "20240730092847-opjylwy",
-      "scrollTop": 0,
+      "scrollTop": 1376,
       "startId": "20240730092858-x0465k6"
     },
     "20240731102000-mvuk7tm": {
       "endId": "20240802170224-nz8mfdc",
+      "focusEnd": 0,
+      "focusId": "20240731174210-vyqa5eu",
+      "focusStart": 0,
       "rootId": "20240731102000-mvuk7tm",
-      "scrollTop": 90,
+      "scrollTop": 93,
       "startId": "20240731174210-vyqa5eu"
     },
     "20240731174000-x1cba1g": {
-      "endId": "20240731174000-srwy737",
+      "endId": "20240801120055-lk62peo",
       "rootId": "20240731174000-x1cba1g",
       "scrollTop": 0,
       "startId": "20240731174000-srwy737"
@@ -204,7 +219,7 @@
       "focusId": "20240806113052-2l2uqj6",
       "focusStart": 0,
       "rootId": "20240806094728-xm96b34",
-      "scrollTop": 1192,
+      "scrollTop": 0,
       "startId": "20240806113052-2l2uqj6"
     },
     "20240809142950-273ujnq": {
@@ -215,6 +230,15 @@
       "rootId": "20240809142950-273ujnq",
       "scrollTop": 0,
       "startId": "20240809142950-5sk2omi"
+    },
+    "20240829165943-97dbtt5": {
+      "endId": "20240829170149-avzjfwq",
+      "focusEnd": 0,
+      "focusId": "20240829170055-fpq6wyb",
+      "focusStart": 0,
+      "rootId": "20240829165943-97dbtt5",
+      "scrollTop": 0,
+      "startId": "20240829170055-fpq6wyb"
     }
   },
   "local-fontstyles": [
