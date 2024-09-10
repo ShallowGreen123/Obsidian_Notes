@@ -36,3 +36,16 @@ Dylan1
 |          AH Module hardware Design Guide          | [docs](./hardware/TX_AH/泰芯AH%20Module%20hardware%20Design%20Guide_20230621170639.pdf)                            |
 |            AH Performance test method             | [docs](./hardware/TX_AH/泰芯AH%20Performance%20test%20method_20230908122816.pdf)                                   |
 |           AH-RF EMC Certification guide           | [docs](./hardware/TX_AH/泰芯AH-RF EMC%20Certification%20guide_20230720140052.pdf)                                  |
+
+
+| T-Halow starts with MODE 1 | [docs](./docs/mode1_test.md)  | ![alt text](image-1.png) |
+| -------------------------- | ----------------------------- | ------------------------ |
+| T-Halow starts with MODE 2 | [docs](./docs/mode2_test.md)  | ![alt text](image-2.png) |
+| TX-AH module pairing       | [docs](./docs/module_pair.md) |                          |
+
+SKU 
+
+| SKU  |      项目       |
+| :--: | :-----------: |
+| K230 | T-Embed-PN532 |
+| H752 |  T-EPD47-S3   |

@@ -6,7 +6,7 @@
     "theme": "0",
     "widget": "0"
   },
-  "local-codelang": "yml",
+  "local-codelang": "bash",
   "local-dialogposition": {
     "dialog-emojis": {
       "height": 378,
@@ -65,11 +65,11 @@
     },
     "20240525172435-fvelfxi": {
       "endId": "20240701093944-7db6m5o",
-      "focusEnd": 9,
-      "focusId": "20240903162950-7jsoqcg",
-      "focusStart": 9,
+      "focusEnd": 5,
+      "focusId": "20240909134501-e0bpjv6",
+      "focusStart": 5,
       "rootId": "20240525172435-fvelfxi",
-      "scrollTop": 4616.36376953125,
+      "scrollTop": 5062,
       "startId": "20240606141007-lkgy1cg"
     },
     "20240527172503-6k9ljq0": {
@@ -87,7 +87,7 @@
       "focusId": "20240528094841-hu2avim",
       "focusStart": 0,
       "rootId": "20240528094356-fn6mwcr",
-      "scrollTop": 330,
+      "scrollTop": 879,
       "startId": "20240528094841-hu2avim"
     },
     "20240601183152-2aspgjw": {
@@ -145,22 +145,13 @@
       "startId": "20240624152323-jtrh1ec"
     },
     "20240713101125-gl7sdxh": {
-      "endId": "20240713105054-4jetz91",
+      "endId": "20240910115333-wmmceeb",
       "focusEnd": 3,
-      "focusId": "20240713103721-qnj0e3s",
+      "focusId": "20240713103532-6xojc2z",
       "focusStart": 3,
       "rootId": "20240713101125-gl7sdxh",
-      "scrollTop": 2200,
+      "scrollTop": 1818,
       "startId": "20240724161346-3ldp470"
-    },
-    "20240722105954-zjroa5l": {
-      "endId": "20240722105954-w3f32wu",
-      "focusEnd": 0,
-      "focusId": "20240722110008-j8utw8b",
-      "focusStart": 0,
-      "rootId": "20240722105954-zjroa5l",
-      "scrollTop": 0,
-      "startId": "20240722110008-j8utw8b"
     },
     "20240722113723-f3ruzjk": {
       "endId": "20240722114400-hh3lh64",
@@ -232,19 +223,81 @@
       "startId": "20240809142950-5sk2omi"
     },
     "20240829165943-97dbtt5": {
-      "endId": "20240829170149-avzjfwq",
-      "focusEnd": 0,
-      "focusId": "20240829170055-fpq6wyb",
-      "focusStart": 0,
+      "endId": "20240906104521-cujarqw",
+      "focusEnd": 6,
+      "focusId": "20240829170149-avzjfwq",
+      "focusStart": 6,
       "rootId": "20240829165943-97dbtt5",
+      "scrollTop": 363,
+      "startId": "20240906103755-rfe904m"
+    },
+    "20240902152010-yvp4420": {
+      "endId": "20240903153737-5z78lim",
+      "focusEnd": 0,
+      "focusId": "20240902152010-i7ib4aw",
+      "focusStart": 0,
+      "rootId": "20240902152010-yvp4420",
       "scrollTop": 0,
-      "startId": "20240829170055-fpq6wyb"
+      "startId": "20240902152010-i7ib4aw"
+    },
+    "20240902152542-ke4rk4g": {
+      "endId": "20240903105641-01tfqyc",
+      "focusEnd": 4,
+      "focusId": "20240903105402-cwv1fd1",
+      "focusStart": 4,
+      "rootId": "20240902152542-ke4rk4g",
+      "scrollTop": 181,
+      "startId": "20240902154427-rs7hg63"
+    },
+    "20240903104647-fdln1de": {
+      "endId": "20240903104704-a2fhmbq",
+      "focusEnd": 3,
+      "focusId": "20240903104704-a2fhmbq",
+      "focusStart": 3,
+      "rootId": "20240903104647-fdln1de",
+      "scrollTop": 400,
+      "startId": "20240903104704-a2fhmbq"
+    },
+    "20240903142552-nkgieqv": {
+      "endId": "20240903142552-cxz4mzw",
+      "focusEnd": 0,
+      "focusId": "20240903142552-cxz4mzw",
+      "focusStart": 0,
+      "rootId": "20240903142552-nkgieqv",
+      "scrollTop": 0,
+      "startId": "20240903142552-cxz4mzw"
+    },
+    "20240904151636-8u6hidg": {
+      "endId": "20240904151642-dps08g7",
+      "focusEnd": 111,
+      "focusId": "20240904151642-dps08g7",
+      "focusStart": 111,
+      "rootId": "20240904151636-8u6hidg",
+      "scrollTop": 0,
+      "startId": "20240904151642-dps08g7"
+    },
+    "20240910135105-1r5dc75": {
+      "endId": "20240910135532-elt2bka",
+      "rootId": "20240910135105-1r5dc75",
+      "scrollTop": 0,
+      "startId": "20240910135532-elt2bka"
+    },
+    "20240910135348-jhgidrv": {
+      "endId": "20240910135400-0hhnkck",
+      "focusEnd": 36,
+      "focusId": "20240910135400-0hhnkck",
+      "focusStart": 36,
+      "rootId": "20240910135348-jhgidrv",
+      "scrollTop": 952,
+      "startId": "20240910135400-576wakr"
     }
   },
   "local-fontstyles": [
     "color​var(--b3-font-color1)",
-    "style1​var(--b3-card-warning-background)​var(--b3-card-warning-color)",
     "style1​var(--b3-card-error-background)​var(--b3-card-error-color)",
+    "backgroundColor​var(--b3-font-background9)",
+    "backgroundColor​var(--b3-font-background8)",
+    "style1​var(--b3-card-warning-background)​var(--b3-card-warning-color)",
     "style2​undefined",
     "style4​undefined",
     "backgroundColor​var(--b3-font-background10)"
