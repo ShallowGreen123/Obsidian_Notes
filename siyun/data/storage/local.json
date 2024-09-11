@@ -6,7 +6,7 @@
     "theme": "0",
     "widget": "0"
   },
-  "local-codelang": "bash",
+  "local-codelang": "latex",
   "local-dialogposition": {
     "dialog-emojis": {
       "height": 378,
@@ -64,13 +64,10 @@
       "startId": "20240524203726-lx6uc12"
     },
     "20240525172435-fvelfxi": {
-      "endId": "20240701093944-7db6m5o",
-      "focusEnd": 5,
-      "focusId": "20240909134501-e0bpjv6",
-      "focusStart": 5,
+      "endId": "20240525172457-bi5074q",
       "rootId": "20240525172435-fvelfxi",
-      "scrollTop": 5062,
-      "startId": "20240606141007-lkgy1cg"
+      "scrollTop": 0,
+      "startId": "20240617093112-qvoiapa"
     },
     "20240527172503-6k9ljq0": {
       "endId": "20240527174201-2hfol83",
@@ -87,7 +84,7 @@
       "focusId": "20240528094841-hu2avim",
       "focusStart": 0,
       "rootId": "20240528094356-fn6mwcr",
-      "scrollTop": 879,
+      "scrollTop": 0,
       "startId": "20240528094841-hu2avim"
     },
     "20240601183152-2aspgjw": {
@@ -114,7 +111,7 @@
       "focusId": "20240722112338-2sc6yog",
       "focusStart": 136,
       "rootId": "20240617103355-pxhgnij",
-      "scrollTop": 300,
+      "scrollTop": 1864,
       "startId": "20240722103948-lx5frb9"
     },
     "20240618093114-5uk2h2j": {
@@ -123,7 +120,7 @@
       "focusId": "20240618093202-6guqnxe",
       "focusStart": 9,
       "rootId": "20240618093114-5uk2h2j",
-      "scrollTop": 2805,
+      "scrollTop": 2804,
       "startId": "20240618093121-oubw40a"
     },
     "20240619091950-qky83hz": {
@@ -146,12 +143,12 @@
     },
     "20240713101125-gl7sdxh": {
       "endId": "20240910115333-wmmceeb",
-      "focusEnd": 3,
-      "focusId": "20240713103532-6xojc2z",
-      "focusStart": 3,
+      "focusEnd": 18,
+      "focusId": "20240713110403-vavzcs7",
+      "focusStart": 2,
       "rootId": "20240713101125-gl7sdxh",
-      "scrollTop": 1818,
-      "startId": "20240724161346-3ldp470"
+      "scrollTop": 4778,
+      "startId": "20240713103515-q9vqp6q"
     },
     "20240722113723-f3ruzjk": {
       "endId": "20240722114400-hh3lh64",
@@ -159,16 +156,16 @@
       "focusId": "20240722114728-nmhslov",
       "focusStart": 0,
       "rootId": "20240722113723-f3ruzjk",
-      "scrollTop": 0,
+      "scrollTop": 272,
       "startId": "20240722113723-h22w87q"
     },
     "20240726100006-s57p40s": {
       "endId": "20240726100229-kjx945e",
-      "focusEnd": 0,
-      "focusId": "20240726100109-pzfyrx0",
-      "focusStart": 0,
+      "focusEnd": 34,
+      "focusId": "20240805144854-4frztx6",
+      "focusStart": 34,
       "rootId": "20240726100006-s57p40s",
-      "scrollTop": 0,
+      "scrollTop": 545.4545288085938,
       "startId": "20240726100109-pzfyrx0"
     },
     "20240726154021-bnlm9p7": {
@@ -219,7 +216,7 @@
       "focusId": "20240809142950-5sk2omi",
       "focusStart": 0,
       "rootId": "20240809142950-273ujnq",
-      "scrollTop": 0,
+      "scrollTop": 636,
       "startId": "20240809142950-5sk2omi"
     },
     "20240829165943-97dbtt5": {
@@ -228,7 +225,7 @@
       "focusId": "20240829170149-avzjfwq",
       "focusStart": 6,
       "rootId": "20240829165943-97dbtt5",
-      "scrollTop": 363,
+      "scrollTop": 426,
       "startId": "20240906103755-rfe904m"
     },
     "20240902152010-yvp4420": {
@@ -290,6 +287,21 @@
       "rootId": "20240910135348-jhgidrv",
       "scrollTop": 952,
       "startId": "20240910135400-576wakr"
+    },
+    "20240910143147-n9dzt42": {
+      "endId": "20240910143147-5r6x7no",
+      "focusEnd": 0,
+      "focusId": "20240910143147-5r6x7no",
+      "focusStart": 0,
+      "rootId": "20240910143147-n9dzt42",
+      "scrollTop": 0,
+      "startId": "20240910143147-5r6x7no"
+    },
+    "20240910143246-ibbxnrs": {
+      "endId": "20240911140550-0oa7pda",
+      "rootId": "20240910143246-ibbxnrs",
+      "scrollTop": 3819,
+      "startId": "20240910143246-lnd1wjb"
     }
   },
   "local-fontstyles": [
@@ -305,20 +317,79 @@
   "local-outline": {
     "keepExpand": true
   },
+  "local-searchdata": {
+    "group": 0,
+    "hPath": "工作日志/工作日志",
+    "hasReplace": false,
+    "idPath": [
+      "20240525172433-jn71xnf/20240525172435-fvelfxi.sy"
+    ],
+    "k": "#问题",
+    "method": 0,
+    "page": 1,
+    "r": "",
+    "removed": true,
+    "replaceTypes": {
+      "aHref": false,
+      "aText": true,
+      "aTitle": true,
+      "blockRef": false,
+      "code": false,
+      "codeBlock": false,
+      "docTitle": true,
+      "em": true,
+      "htmlBlock": false,
+      "imgSrc": false,
+      "imgText": true,
+      "imgTitle": true,
+      "inlineMath": false,
+      "inlineMemo": true,
+      "kbd": true,
+      "mark": true,
+      "mathBlock": false,
+      "s": true,
+      "strong": true,
+      "sub": true,
+      "sup": true,
+      "tag": true,
+      "text": true,
+      "u": true
+    },
+    "sort": 0,
+    "types": {
+      "audioBlock": false,
+      "blockquote": false,
+      "codeBlock": true,
+      "databaseBlock": true,
+      "document": true,
+      "embedBlock": false,
+      "heading": true,
+      "htmlBlock": true,
+      "iframeBlock": false,
+      "list": false,
+      "listItem": false,
+      "mathBlock": true,
+      "paragraph": true,
+      "superBlock": false,
+      "table": true,
+      "videoBlock": false,
+      "widgetBlock": false
+    }
+  },
   "local-searchkeys": {
     "col": "",
     "colTab": "",
     "keys": [
+      "#问题",
+      "",
+      "#",
       "#Lora#",
       "#ESP32#",
-      "",
-      "#问题",
       "#LVGL#",
       "#WiFI Halow#",
       "Holaw ",
       "T-Holaw",
       "#PlatformIO#",
-      "#",
       "LVGL",
       "文件系统",
       "#LVGL"
