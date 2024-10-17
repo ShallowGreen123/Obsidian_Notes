@@ -11,41 +11,23 @@
 
 Dylan1
 
-|                          AT cmd                          |           Help           |
-| :------------------------------------------------------: | :----------------------: |
-|                            AT                            |       Sample test        |
-|                           AT?                            |         Get help         |
-|                         AT+VER?                          |       Get ver help       |
-|                         AT+VER=?                         |       Run get ver        |
-|                        AT+TCONF?                         |     Get config help      |
-|                        AT+TCONF=?                        |      Run get config      |
-|    AT+TCONF=868000000:22:4:12:4/5:0:0:1:16:25000:2:3     |     Modulation LORA      |
-| AT+TCONF=868000000:22:10000:10000:4/5:0:0:3:16:25000:2:3 |      Modulation FSK      |
-| AT+TCONF=868000000:22:50000:50000:4/5:0:0:0:16:25000:2:3 |      Modulation MSK      |
-|                         AT+TTONE                         |    Start RF Tone test    |
-|                         AT+TRSSI                         | Starts RF RSSI tone test |
-|                        AT+TTX=10                         | Set the number of tests  |
+| 基金代码 |          基金名称           | 持有金额 | 盈亏比例 | 持仓份额 |
+|:--------:|:---------------------------:|:--------:|:--------:|:--------:|
+|  xxxxxx  |           活期宝            | 17855.22 |   ----   |  17.71%  |
+|  003766  |  广发创业板ETF发起式联接C   | 31368.24 |  -0.94%  |  31.1%   |
+|  007339  |    易方达沪深300ETF联接C    | 40604.21 |  7.49%   |  40.26%  |
+|  021207  | 易方达中证A50ETF联接发起式C | 7358.11  |  3.63%   |   7.3%   |
+|  007379  |  易方达上证50ETF联接基金A   | 9349.18  |  5.95%   |  9.27%   |
+|  260112  |    景顺长城能源基建混合A    | 12167.14 |  0.83%   |  12.06%  |
 
+| Product | [T-Embed-CC1101 ](https://www.lilygo.cc/products/t-embed-cc1101) |
+|:-------:|:----------------------------------------------------------------:|
+| Module  |                        ESP32-S3-WROOM-1U                         |
+|  Flash  |                               16MB                               |
+|  PSRAM  |                               8MB                                |
+| Screen  |                             320x170                              |
+|         |                                                                  |
 
-|           Frequency setting description           | [docs](./hardware/TX_AH/泰芯802.11AH%20Frequency%20setting%20description_20231130110312.pdf)                       |
-|:-------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------ |
-| TX-AH-Rx00P Series module technical specification | [docs](./hardware/TX_AH/泰芯802.11ah TX-AH-Rx00P%20Series%20module%20technical%20specification_20231116174457.pdf) |
-|          TX-AH-Rx00P Bridge instructions          | [docs](./hardware/TX_AH//泰芯AH%20Bridge%20instructions_20230908122753.pdf)                                        |
-|    AH Module AT instruction development guide     | [docs](./hardware/TX_AH/泰芯AH%20Module%20AT%20instruction%20development%20guide_20230524100503.pdf)               |
-|     AH Module development board instructions      | [docs](./hardware/TX_AH/泰芯AH%20Module%20development%20board%20instructions_20230621205234.pdf)                   |
-|          AH Module hardware Design Guide          | [docs](./hardware/TX_AH/泰芯AH%20Module%20hardware%20Design%20Guide_20230621170639.pdf)                            |
-|            AH Performance test method             | [docs](./hardware/TX_AH/泰芯AH%20Performance%20test%20method_20230908122816.pdf)                                   |
-|           AH-RF EMC Certification guide           | [docs](./hardware/TX_AH/泰芯AH-RF EMC%20Certification%20guide_20230720140052.pdf)                                  |
-
-
-| T-Halow starts with MODE 1 | [docs](./docs/mode1_test.md)  | ![alt text](image-1.png) |
-| -------------------------- | ----------------------------- | ------------------------ |
-| T-Halow starts with MODE 2 | [docs](./docs/mode2_test.md)  | ![alt text](image-2.png) |
-| TX-AH module pairing       | [docs](./docs/module_pair.md) |                          |
-
-SKU 
-
-| SKU  |      项目       |
-| :--: | :-----------: |
-| K230 | T-Embed-PN532 |
-| H752 |  T-EPD47-S3   |
+| AT 命令 | 说明 |
+|:-------:|:----:|
+|         |      |

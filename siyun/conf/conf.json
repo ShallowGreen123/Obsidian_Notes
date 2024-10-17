@@ -229,13 +229,69 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "348px",
+              "size": "0px",
               "type": "left"
             },
             {
               "children": [
                 {
                   "children": [
+                    {
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20240730092847-opjylwy",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240525172433-jn71xnf",
+                        "rootId": "20240730092847-opjylwy"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "T-Halow 快速开始"
+                    },
+                    {
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20240619091950-qky83hz",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240525172433-jn71xnf",
+                        "rootId": "20240619091950-qky83hz"
+                      },
+                      "docIcon": "1f4dd",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "T-Halow 测试说明"
+                    },
+                    {
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241016143043-alu8qoe",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240525172433-jn71xnf",
+                        "rootId": "20241016143043-alu8qoe"
+                      },
+                      "docIcon": "1f4dd",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "[H743] T-Halow"
+                    },
+                    {
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20241009135029-7up5tfc",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20240525172433-jn71xnf",
+                        "rootId": "20241009135029-7up5tfc"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "问题收集"
+                    },
                     {
                       "active": true,
                       "children": {
@@ -254,16 +310,16 @@
                     {
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20241009135029-7up5tfc",
+                        "blockId": "20241014103555-ecv2ac0",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20240525172433-jn71xnf",
-                        "rootId": "20241009135029-7up5tfc"
+                        "rootId": "20241014103555-ecv2ac0"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "问题收集"
+                      "title": "AT 命令"
                     },
                     {
                       "children": {
@@ -282,48 +338,6 @@
                     {
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20240617103355-pxhgnij",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20240525172433-jn71xnf",
-                        "rootId": "20240617103355-pxhgnij"
-                      },
-                      "docIcon": "1f4d7",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "T3-STM32"
-                    },
-                    {
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20240806094728-xm96b34",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20240525172433-jn71xnf",
-                        "rootId": "20240806094728-xm96b34"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "烧录固件"
-                    },
-                    {
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20240730092847-opjylwy",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20240525172433-jn71xnf",
-                        "rootId": "20240730092847-opjylwy"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "T-Halow 快速开始"
-                    },
-                    {
-                      "children": {
-                        "action": "cb-get-scroll",
                         "blockId": "20240624152311-kj8i8hl",
                         "instance": "Editor",
                         "mode": "wysiwyg",
@@ -334,20 +348,6 @@
                       "instance": "Tab",
                       "pin": false,
                       "title": "测试图片"
-                    },
-                    {
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20240619091950-qky83hz",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20240525172433-jn71xnf",
-                        "rootId": "20240619091950-qky83hz"
-                      },
-                      "docIcon": "1f4dd",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "T-Halow 测试说明"
                     }
                   ],
                   "height": "",
@@ -415,10 +415,10 @@
             "hotkey": "⌥1",
             "hotkeyLangId": "fileTree",
             "icon": "iconFiles",
-            "show": true,
+            "show": false,
             "size": {
               "height": 0,
-              "width": 348
+              "width": 279
             },
             "title": "文档树",
             "type": "file"
@@ -523,7 +523,7 @@
       "pin": true
     }
   },
-  "userData": "d716d5d6812229ac440f08261821941ac231dc74345507a183900debd8599b13b593c87930d6c80e24241f46fa94677e7d8bd887dd9a1146beb2193ff7240586e3cb77ba9ba8986f12f427e6b38695f65c9f03ea9a8c7268496282ab3533b3d096d55499a01f221a2d2849530e494b4ab3294eaca5a52f17292a1669d740bfa270d3751a92866f5d2b3cf210b6ecfa9f32484f6faf83d06807056238b447c01fbd1ea49a6826ae46923ac15620cad26e537183ae1fa67b09a4d31406dca21d8f3fa2b07fc42a62a380e9a06c880ca8f153d590e76b9ef67494da3832740236b26fd30e9d8a433c9f50c5c7d44bb28d90a406e3009ad06248728fb36bd079bc96caa36cee8db0ce23d695bad3c2a5586a6d1b1644266887bd66f8d4d9b2aed2d367009c2f9f06c8ad7f514b74eee7e48b28b4c3b225fbc9fc1ec112b4793649438d298ac2cf54e33d7e2628919bd980e2a833531eea3fdd6209d104605d58404ef6936a26d9524b8215028be9d64036e58da41f9fdd13ae07a46b7fa2a5e0f53c6c9c3361a05879952728bb812f9792807e254a3049eb6b5a2aadae7a3117a58cd6a997aed440a9ab8bda9cab509b56bbd202786b5e965d2377ed53fbc46c33b2764886e1361d352fde2b0a2c10b5eb0ae3d8d3726c1f29d04b3e56d2d17ac57d3a7edecd6172685b90b3f81b313069911c96dd71bae85b4075b5edd94096ed6aee984bffe8b73b9950306ebb0edbd7b25daf92ceea985e47525613cf8439335221d111c0531b4de3e5be4cfc7df888aaae20f61bec17a6370d90699db45490577f6e03b0cb4f7c9e1d3ecc49408589150b16e6d9ca45592e95aaad12c83167d3866817163cd9e143a1120755e1561a200f9fb277d3f76f2a6c71dc41257bc7b9bee3cd412e26bc1dcbb411c5603f4d0037bb87a143b6fcfd5565e02c827430e790498e224bb4334ee16d75d74f04e648e5bf393f3bd2355fbf48d352339f7d944c565c78293f878ec3d51e13887227fff206895af9c6cec34e72ea0b5232cd037932fbf1eb4121dd4bd4a3cfb1f389f79bfc32234fc77249efa2b8b7b531b8faec993cd069e9cf4634eaf73a69843400c13f1ca4b7e6e168681140eaf8f1dda2247bcb12e2f73525ac7d74f9a7133d2914e369e7848041ca7126844936bf6b032b4f5af4a8e378be1905b16642e0c74f3249ebe0167915d003a80724c6520f53997c98716c3cb4b3d6f204e4fb9849807a812160c50e52f03e3198799beed189576a88b8032953fc71121e7875350fa2181f674e714923098ab52f4fe560e2c69c0a00cf9093b3a0176f2d01823ab7526ec4bd03f9961df69ea46269f6b0e239601855ee186923fb2d1a5d04908650b6ab3b98def0ea6e89f21855e0dcafd58c982f870909da881c672b3aa660df7628a9de5768b2a8c7efc2799a4d6b8573519e8179fd286cae4070c48a56d7bfa653c69eb17897244982b4bf2899c8953bca9b528ac2d0d1bbbf13dc0ebc26c8465cf6986924f68b558ec79d71a369cf60bf5ed7577b88257362cd256b23ed49ab70cd27aa4aaab215354c811a1858463dbaac11b9d944f66fb0fcb0fc72726d2982a7502a6d206214c00b05b7010b6905c4cd925f8acc8ae8c0f89d20a3ea9f7922410553ffe9448a9df06954ca86c8b84af7bbe50a77dc131426bebd66d2bcc3cc60769165ecb767b2b16377ded1175892ee3a483f354add56622d12eaf69d0df9aca52abb319157e59635a575632da89d99fb1b1d425dfeb374c60c6b25ea503ecefdab55ba76f63f4c16d575c57630bda4be770a20e6883277daee9f5c875aec00af80370029a609f304752e602be308f1cf0f268d6219bdb51059f4530f4a122a3b90fade79ecdb2bbca2a0988b140e08f55e614224b622f8b8145200509781f6b01e478afe27f7ac299f87b0c665ae6f759a982cdf60cc5b69e15d381a4a56ccee920aac6a1ec5af5117afa0b63b3c21e41715aecdbaabebf584e60df97c23c6108ca037d7bf0104c6711a5c878db73f9ce57d687427cde5fd12121ea7cee07590ca733776d606686ec2179eb578e67bfeb7de5c16becb622d752cdb2d58adbccb3ca12c3db7b1d28a0d63ee98f855b70c1fd4a220efdb68ebf0d0e9fbdaab9a611054bd96f97086f6296179451bf120503e82526eb4ce62aa7485f2a2c84ee80afc0204e1bc21d74cbc7f307e4fb68e92976e62974af6a3bd283e1fc1155c011f36a8939ef5338211f8b564c1f2e52801782501e1e5a64befae395e69243cb768662f37ccdbdc2393e03ffcbcf69642dd68bd1bbab1cadb9e62067d386f7727932a273b03a1dd6f11d23cc31866f960ce2a340c6a7dfee99c320c1466acc159259bd4f87544b32e6eb117676fb52b1a2a0c17c0ec7690f8f67bece63cce5adc7ee91cd94da03cc35618af4c4716807476eea5a6034ae70c2f69a6114f593e55d0ae6caf8215c905a572251b0ff0073223913b38a7952dde6d4e0dae761f8c9f758214fbc092d6fd29ee3c2c2e9e2ee8721a75f1c19a4d90a47960ac035313e777ee22185aba44d8a52d3d1217bdb92beaa3744aea91c2c3c097422b8335182e22b30b11fffad062dc5d8c83c7d78d3e92dd9af786b84361545256cfa2e1cc489f0a7d25180dd86d8ab733dfa80beeb3af8bbf3e0ec200b9ceb4f049eb88280a1ee297c0d6b820f69f81023ff46602a64f7cc849b85e6e6c1027cc1e342bc53f8ffdf4a739fd251a10f34573bef227d20f16c6885a3e3841c22442bef7a98049412e4a9d8796bc65e11a9017b4162d3dd821a8dc5a9a9d9f9acc56c891643e8caa5457070c98d78fa5529c5c3d62d281a18ebf9c4445503559fe90e02377457b3841037411d6f5cec63243d2de947b4f38e76d842efdeee483f3ec57fee254899a0e373355cde70ff5360a1c06ea133e1213879bd6fc9dec7e174ed63a56f1b86dd382c055e77f8107c541dd5975c8afc20600e6f7b5e1446612802b2436622b9b09719bbfae65ecc0befeada2b024c8857ce7afe7455272b10911311387239afca4e2ef128a4153bf5abe941b378b8f13e880a796756ccd141864ff7bf48698748ec89bc2039078c1c653662a5a513fee052434e27ab77203f149a15d6675296dca4c7a78f9199b830bebd98f846ac7a4a677f7858809f5cc0758086a50eda9aff702bb2cc4de3a1c076cc09daccea9f26a69fff8113105b7856a0ae8961839c8e5bc96a751e94f5e9e6a57670992791eb359da7b566d7134c5d63374aeb4be07f1537143a5d369363387188e531e",
+  "userData": "d716d5d6812229ac440f08261821941ac231dc74345507a183900debd8599b13b593c87930d6c80e24241f46fa94677e7d8bd887dd9a1146beb2193ff7240586e3cb77ba9ba8986f12f427e6b38695f65c9f03ea9a8c7268496282ab3533b3d096d55499a01f221a2d2849530e494b4ab3294eaca5a52f17292a1669d740bfa270d3751a92866f5d2b3cf210b6ecfa9f32484f6faf83d06807056238b447c01fbd1ea49a6826ae46923ac15620cad26e537183ae1fa67b09a4d31406dca21d8f3fa2b07fc42a62a380e9a06c880ca8f153d590e76b9ef67494da3832740236b26fd30e9d8a433c9f50c5c7d44bb28d90a406e3009ad06248728fb36bd079bc96caa36cee8db0ce23d695bad3c2a5586a6d1b1644266887bd66f8d4d9b2aed2d367009c2f9f06c8ad7f514b74eee7e48b28b4c3b225fbc9fc1ec112b4793649438d298ac2cf54e33d7e2628919bd980e2a833531eea3fdd6209d104605d58404ef6936a26d9524b8215028be9d64036e58da41f9fdd13ae07a46b7fa2a5e0f53c6c9c3361a05879952728bb812f9792807e254a3049eb6b5a2aadae7a3117a58cd6a997aed440a9ab8bda9cab509b56bbd202786b5e965d2377ed53fbc46c33b2764886e1361d352fde2b0a2c10b5eb0ae3d8d3726c1f29d04b3e56d2d17ac57d3a7edecd6172685b90b3f81b313069911c96dd71bae85b4075b5edd94096ed6aee984bffe8b73b9950306ebb0edbd7b25daf92ceea985e47525613cf8439335221d111c0531b4de3e5be4cfc7df888aaae20f61bec17a6370d90699db45490577f6e03b0cb4f7c9e1d3ecc49408589150b16e6d9ca45592e95aaad12c83167d3866817163cd9e143a1120755e1561a200f9fb277d3f76f2a6c71dc41257bc7b9bee3cd412e26bc1dcbb411c5603f4d0037bb87a143b6fcfd5565e02c827430e790498e224bb4334ee16d75d74f04e648e5bf393f3bd2355fbf48d352339f7d944c565c78293f878ec3d51e13887227fff206895af9c6cec34e72ea0b5232cd037932fbf1eb4121dd4bd4a3cfb1f389f79bfc32234fc77249efa2b8b7b531b8faec993cd069e9cf4634eaf73a69843400c13f1ca4b7e6e168681140eaf8f1dda2247bcb12e2f73525ac7d74f9a7133d2914e369e7848041ca7126844936bf6b032b4f5af4a8e378be1905b16642e0c74f3249ebe0167915d003a80724c6520f53997c98716c3cb4b3d6f204e4fb9849807a812160c50e52f03e3198799beed189576a88b8032953fc71121e7875350fa2181f674e714923098ab52f4fe560e2c69c0a00cf9093b3a0176f2d01823ab7526ec4bd03f9961df69ea46269f6b0e239601855ee186923fb2d1a5d04908650b6ab3b98def0ea6e89f21855e0dcafd58c982f870909da881c672b3aa660df7628a9de5768b2a8c7efc2799a4d6b8573519e8179fd286cae4070c48a56d7bfa653c69eb17897244982b4bf2899c8953bca9b528ac2d0d1bbbf13dc0ebc26c8465cf6986924f68b558ec79d71a369cf60bf7fe7bf7c75ffe3ba9c21caa40b08ceb9ba1f0fdf97902ab9425b33e944c5069f99d5579fff79c121b35f5684a6f2389034e5056a4e0c13d35a291b3bc843945586ade225cbf9616bddedd85b5435c071db0007dc686f9c1973f7e2459c5a0698669163f658f3c8be343e0327859639f9c86382610aefa83f8a936bf31d824dab088f46b22d8e342055202f7b0df3724e14b04bdf117266a1e340326726d282d0f805665b9713922c058b11b6237da05d8a0b1d13a82fd97058441da7402fe00a30e4de14d6cac3bf7aed9c9eada12e996af95301cf475fcf2802f5a8fc1c99bb6ca54fec6857c1faeb6b426b15063fbec05b07a1e9c1d7e6bb72ff519be1544020454e1e69d8390edee96b937b742ae5f657c4745ac95750085b273924bc25f9d881535f0014ae65ab71ff5b13b1eaa9f837f05cf1047464105e5fbf3dd4fcea8b16ef46015de1a42560f9b5ca5a8c0cbab21cb97db2463487ed0084a316e5045f458d0b472a0943d15837adc90a11c95aa12c310dd4434c67a5a71897c11aa7e0cc20a49f023f63e1aa604accf0aadf6d870b3f737ace8ef64fa27152261b76a586f00d25ec7e5d9c2fc9cbc0b282d68360db006a2eb087b8dc3a4e067837aa76cbb2f890ea6aa14d62c1366f92c25ccf8c9b15fef347024942f909a85b95a6464b5b2b0d9e9cc13d80dccd9f564a147946579a6123605fcc532feda724541b261a0bf7c79f13e3519cb9e9a18ad2c34f860fe452ab77478884e7d037af22a80d1dded9cc8df5bd7d94087ef5c5b22e3c6b221e292ed12dea8299b4d0b7a5101f877b9addc454d3de5cb956256481ff7445bfa5301d2e823e1ec80a618ca1bc040219c024f814ba226c4e9401323090d65e9971c1cb2bb8d3bb7e82e6fd4d4b90d097d37ee5b6c3ed7654ee914eaabbe932ecb8ed7c9451a5ca9d1070c2addfe9892320ed501b118a16967d53deb2b2556afbb3b284a08d311bb2cafe30b220f654faeffd66a2303370363632fd6c2d4b3945a75ac4e54376e7b646729e5c7fd8140efedfb7c77a7f1e5e5a66715b89643b805f7c21cf36f9009b5a03d857621ccabdd8f2b54986885e883c397e3c590f4cbb0e07f3f799646eef191f44b0126899af96b9b8c906f58d28190dbd11f7a778dcfe8cf0b7155215b0cc6215e9a4f5f506df0b00aaf07ff44478f53dc28c2c681a26397465f80fe343cfb9613d8b10cbef7e659bb749ecf748c83243bffecc6021dfdf1ac654bc24018bb49538e63421f8c2436e066618bb94fea1517569e0e513d420da3473fe6d4fe677378c1957d9f44a7e5ba7838f5795550241eb357d63c8e5a55a9ba112ffbe5dff7582f033aaf5feb6ad10c1a3fc548e7bee34df98c38ebb2e72d493b9c3e6c29cdfdbb174bd7d7e355ad41e846cf2509c48c47b560144dc6ff7b036b61f11328141700cf0b89c4cd2d52042d97c3be9e9ff5d8fda1911e5281479d5cea706da8ea4b285a4b72268183d428f9920a730195a3536974bab434f500900eb2bf0a5fd5c9f36c95099d2a888a977389e6381e34a3940ed20775e6ccfb1d94c80e4e0b922f0fc6f55f037a4bc9a6d54cc3de5a75e2f7c37bba6b4fc0cbce398c414a22bd5850a1719ea7a56529cc9b2029de629963e658b43923214613df9bc07410e408f4e571610d4d80e229ec18293799c2bc879d65c4131de103fab640ac52a816a84028d4f74015141db5584ffd87adcba5b6e1b2c7113099984deaaa4bd0f3967239552",
   "account": {
     "displayTitle": true,
     "displayVIP": true
@@ -531,7 +531,7 @@
   "readonly": false,
   "localIPs": [
     "127.0.0.1",
-    "192.168.36.244",
+    "192.168.36.26",
     "192.168.183.88",
     "169.254.114.110",
     "169.254.133.216",
@@ -1305,13 +1305,13 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 33,
+    "treeCount": 35,
     "cTreeCount": 100,
-    "blockCount": 1394,
+    "blockCount": 1705,
     "cBlockCount": 5000,
-    "dataSize": 44682464,
+    "dataSize": 49994613,
     "cDataSize": 104857600,
-    "assetsSize": 44116728,
+    "assetsSize": 49357660,
     "cAssetsSize": 104857600
   },
   "api": {
