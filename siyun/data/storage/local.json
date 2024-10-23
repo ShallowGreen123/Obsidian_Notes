@@ -64,13 +64,13 @@
       "startId": "20240524203726-lx6uc12"
     },
     "20240525172435-fvelfxi": {
-      "endId": "20241016111627-rtyaai0",
-      "focusEnd": 0,
-      "focusId": "20241016111627-rtyaai0",
-      "focusStart": 0,
+      "endId": "20241021171438-4ugyley",
+      "focusEnd": 5,
+      "focusId": "20241021171438-4ugyley",
+      "focusStart": 5,
       "rootId": "20240525172435-fvelfxi",
-      "scrollTop": 9059.0908203125,
-      "startId": "20240606141007-lkgy1cg"
+      "scrollTop": 5420,
+      "startId": "20240731180536-6r2imdh"
     },
     "20240527172503-6k9ljq0": {
       "endId": "20240527174201-2hfol83",
@@ -105,7 +105,7 @@
       "focusId": "20240608234841-bm3613s",
       "focusStart": 0,
       "rootId": "20240608234810-ja5z3xc",
-      "scrollTop": 731,
+      "scrollTop": 730,
       "startId": "20240608234841-bm3613s"
     },
     "20240617103355-pxhgnij": {
@@ -114,7 +114,7 @@
       "focusId": "20240722112338-2sc6yog",
       "focusStart": 136,
       "rootId": "20240617103355-pxhgnij",
-      "scrollTop": 1879,
+      "scrollTop": 1072,
       "startId": "20240722103948-lx5frb9"
     },
     "20240618093114-5uk2h2j": {
@@ -177,7 +177,7 @@
       "focusId": "20240726170735-4n8djdh",
       "focusStart": 0,
       "rootId": "20240726154021-bnlm9p7",
-      "scrollTop": 1181,
+      "scrollTop": 210,
       "startId": "20240726170735-4n8djdh"
     },
     "20240730092847-opjylwy": {
@@ -219,13 +219,16 @@
       "focusId": "20240809142950-5sk2omi",
       "focusStart": 0,
       "rootId": "20240809142950-273ujnq",
-      "scrollTop": 636,
+      "scrollTop": 545,
       "startId": "20240809142950-5sk2omi"
     },
     "20240829165943-97dbtt5": {
-      "endId": "20240906104521-cujarqw",
+      "endId": "20241018154146-jfsmh0c",
+      "focusEnd": 0,
+      "focusId": "20241018154146-jfsmh0c",
+      "focusStart": 0,
       "rootId": "20240829165943-97dbtt5",
-      "scrollTop": 2189,
+      "scrollTop": 1497,
       "startId": "20240906103755-rfe904m"
     },
     "20240902152010-yvp4420": {
@@ -350,17 +353,26 @@
       "rootId": "20241016143043-alu8qoe",
       "scrollTop": 250,
       "startId": "20241016143215-xyyc1zr"
+    },
+    "20241021091114-39nsp1c": {
+      "endId": "20241021091114-pn2w025",
+      "focusEnd": 0,
+      "focusId": "20241021091114-pn2w025",
+      "focusStart": 0,
+      "rootId": "20241021091114-39nsp1c",
+      "scrollTop": 0,
+      "startId": "20241021091114-pn2w025"
     }
   },
   "local-fontstyles": [
+    "color​var(--b3-font-color6)",
+    "color​var(--b3-font-color7)",
+    "color​var(--b3-font-color8)",
+    "backgroundColor​var(--b3-font-background11)",
     "color​var(--b3-font-color1)",
     "style1​var(--b3-card-error-background)​var(--b3-card-error-color)",
     "backgroundColor​var(--b3-font-background9)",
-    "backgroundColor​var(--b3-font-background8)",
-    "style1​var(--b3-card-warning-background)​var(--b3-card-warning-color)",
-    "style2​undefined",
-    "style4​undefined",
-    "backgroundColor​var(--b3-font-background10)"
+    "backgroundColor​var(--b3-font-background8)"
   ],
   "local-outline": {
     "keepExpand": true
